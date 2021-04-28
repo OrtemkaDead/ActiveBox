@@ -245,7 +245,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: #31344e url("/img/header-bg.jpg") center no-repeat;
+  background: #31344e url("img/header-bg.jpg") center no-repeat;
   background-size: cover;
 }
 
